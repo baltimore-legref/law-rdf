@@ -1,0 +1,12 @@
+<rdf:RDF xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-04-13/_version/2024-05-24">
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#PublicationVersion"/>
+    <oll:buildTrigger rdf:resource="https://codes.baltimorecity.gov/_publication/2025-04-13/_date/2024-05-24/us/md/cities/baltimore/ordinances/2024/24-325"/>
+    <oll:buildTrigger rdf:resource="https://codes.baltimorecity.gov/_publication/2025-04-13/_date/2024-05-24/us/md/cities/baltimore/ordinances/2024/24-331"/>
+    <oll:buildTrigger rdf:resource="https://codes.baltimorecity.gov/_publication/2025-04-13/_date/2024-05-24/us/md/cities/baltimore/ordinances/2024/24-332"/>
+    <oll:buildTrigger rdf:resource="https://codes.baltimorecity.gov/_publication/2025-04-13/_date/2024-05-24/us/md/cities/baltimore/ordinances/2024/24-335"/>
+    <oll:buildTrigger rdf:resource="https://codes.baltimorecity.gov/_publication/2025-04-13/_date/2024-05-24/us/md/cities/baltimore/ordinances/2024/24-338"/>
+    <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-05-24</oll:codifiedDate>
+    <oll:hasPublication rdf:resource="https://codes.baltimorecity.gov/_publication/2025-04-13"/>
+  </rdf:Description>
+</rdf:RDF>
