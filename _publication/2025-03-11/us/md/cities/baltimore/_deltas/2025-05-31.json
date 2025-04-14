@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|53",
+      "ptag": "container",
+      "cite": " Article 1, Subtitle 53",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/53",
+      "doc_mpath": "City of Baltimore, Md., Code|1|53|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a753-1",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 53-1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/53-1",
+      "doc_mpath": "City of Baltimore, Md., Code|1|53|53-1|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a753-2",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 53-2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/53-2",
+      "doc_mpath": "City of Baltimore, Md., Code|1|53|53-2|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a753-3",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 53-3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/53-3",
+      "doc_mpath": "City of Baltimore, Md., Code|1|53|53-3|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a753-4",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 53-4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/53-4",
+      "doc_mpath": "City of Baltimore, Md., Code|1|53|53-4|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a753-5",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 53-5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/53-5",
+      "doc_mpath": "City of Baltimore, Md., Code|1|53|53-5|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a753-6",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 53-6",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/53-6",
+      "doc_mpath": "City of Baltimore, Md., Code|1|53|53-6|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a753-7",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 53-7",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/53-7",
+      "doc_mpath": "City of Baltimore, Md., Code|1|53|53-7|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "19|\u00a771-2",
+      "ptag": "section",
+      "cite": " Article 19, \u00a7 71-2",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/19/71-2",
+      "doc_mpath": "City of Baltimore, Md., Code|19|71|71-2|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "22|\u00a736C",
+      "ptag": "section",
+      "cite": " Article 22, \u00a7 36C",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/22/36C",
+      "doc_mpath": "City of Baltimore, Md., Code|22|s3|36C|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "28|\u00a717.1-2",
+      "ptag": "section",
+      "cite": " Article 28, \u00a7 17.1-2",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/28/17.1-2",
+      "doc_mpath": "City of Baltimore, Md., Code|28|III|17.1|17.1-2|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "4|\u00a73-5",
+      "ptag": "section",
+      "cite": " Article 4, \u00a7 3-5",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/4/3-5",
+      "doc_mpath": "City of Baltimore, Md., Code|4|3|3-5|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "5|\u00a734-5",
+      "ptag": "section",
+      "cite": " Article 5, \u00a7 34-5",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/5/34-5",
+      "doc_mpath": "City of Baltimore, Md., Code|5|34|34-5|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "health|\u00a76-603.1",
+      "ptag": "section",
+      "cite": "Health Code, \u00a7 6-603.1",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/health/6-603.1",
+      "doc_mpath": "City of Baltimore, Md., Code|health|6|6|6-603.1|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Balt., Md., Ord. 24-440",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/md/cities/baltimore/ordinances/2024/24-440",
+      "doc_mpath": "City of Balt., Md., Ord. 24-440|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/ordinances|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-03-11",
+  "codified_date": "2025-05-31",
+  "reasons": {
+    "City of Balt., Md., Ord. 24-440": [
+      "effective"
+    ]
+  }
+}
