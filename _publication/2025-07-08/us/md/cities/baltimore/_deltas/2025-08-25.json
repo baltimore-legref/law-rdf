@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "health|\u00a73-601",
+      "ptag": "section",
+      "cite": "Health Code, \u00a7 3-601",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/health/3-601",
+      "doc_mpath": "City of Baltimore, Md., Code|health|3|6|3-601|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "health|\u00a73-602",
+      "ptag": "section",
+      "cite": "Health Code, \u00a7 3-602",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/health/3-602",
+      "doc_mpath": "City of Baltimore, Md., Code|health|3|6|3-602|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "health|\u00a73-603",
+      "ptag": "section",
+      "cite": "Health Code, \u00a7 3-603",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/health/3-603",
+      "doc_mpath": "City of Baltimore, Md., Code|health|3|6|3-603|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "health|\u00a73-604",
+      "ptag": "section",
+      "cite": "Health Code, \u00a7 3-604",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/health/3-604",
+      "doc_mpath": "City of Baltimore, Md., Code|health|3|6|3-604|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "health|3|6",
+      "ptag": "container",
+      "cite": "Health Code, Title 3, Subtitle 6",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/health/3/6",
+      "doc_mpath": "City of Baltimore, Md., Code|health|3|6|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Balt., Md., Ord. 25-016",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/md/cities/baltimore/ordinances/2025/25-016",
+      "doc_mpath": "City of Balt., Md., Ord. 25-016|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/ordinances|2025|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-07-08",
+  "codified_date": "2025-08-25",
+  "reasons": {
+    "City of Balt., Md., Ord. 25-016": [
+      "effective"
+    ]
+  }
+}
