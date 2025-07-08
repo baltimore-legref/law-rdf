@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a740-14",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 40-14",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/40-14",
+      "doc_mpath": "City of Baltimore, Md., Code|1|40|40-14|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a741-14",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 41-14",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/41-14",
+      "doc_mpath": "City of Baltimore, Md., Code|1|41|41-14|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "health|\u00a78-301",
+      "ptag": "section",
+      "cite": "Health Code, \u00a7 8-301",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/health/8-301",
+      "doc_mpath": "City of Baltimore, Md., Code|health|8|3|8-301|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "health|\u00a78-302",
+      "ptag": "section",
+      "cite": "Health Code, \u00a7 8-302",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/health/8-302",
+      "doc_mpath": "City of Baltimore, Md., Code|health|8|3|8-302|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "health|\u00a78-401",
+      "ptag": "section",
+      "cite": "Health Code, \u00a7 8-401",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/health/8-401",
+      "doc_mpath": "City of Baltimore, Md., Code|health|8|4|8-401|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "health|\u00a78-402",
+      "ptag": "section",
+      "cite": "Health Code, \u00a7 8-402",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/health/8-402",
+      "doc_mpath": "City of Baltimore, Md., Code|health|8|4|8-402|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "health|8|3",
+      "ptag": "container",
+      "cite": "Health Code, Title 8, Subtitle 3",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/health/8/3",
+      "doc_mpath": "City of Baltimore, Md., Code|health|8|3|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "health|8|4",
+      "ptag": "container",
+      "cite": "Health Code, Title 8, Subtitle 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/health/8/4",
+      "doc_mpath": "City of Baltimore, Md., Code|health|8|4|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Balt., Md., Ord. 24-421",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/md/cities/baltimore/ordinances/2024/24-421",
+      "doc_mpath": "City of Balt., Md., Ord. 24-421|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/ordinances|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-07-08",
+  "codified_date": "2024-12-15",
+  "reasons": {
+    "City of Balt., Md., Ord. 24-421": [
+      "effective"
+    ]
+  }
+}
