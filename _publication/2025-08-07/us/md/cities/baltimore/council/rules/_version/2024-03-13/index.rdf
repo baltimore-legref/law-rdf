@@ -1,0 +1,25 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-08-07/_date/2024-03-13/us/md/cities/baltimore/council/rules">
+    <dcterms:isVersionOf rdf:resource="https://codes.baltimorecity.gov/_publication/2025-08-07/us/md/cities/baltimore/council/rules"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
+    <rdfs:label xml:lang="en">Historic Council Rules</rdfs:label>
+    <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-03-13</oll:codifiedDate>
+    <oll:hasChanges rdf:resource="https://codes.baltimorecity.gov/_publication/2025-08-07/_date/2024-03-13/us/md/cities/baltimore/council/rules/_changes"/>
+    <oll:hasElements rdf:resource="https://codes.baltimorecity.gov/_publication/2025-08-07/_date/2024-03-13/us/md/cities/baltimore/council/rules/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://codes.baltimorecity.gov/_publication/2025-08-07"/>
+    <oll:libraryMaterializedPath xml:lang="en">baltimore-legref/law-rdf|us/md/cities/baltimore/council/rules|</oll:libraryMaterializedPath>
+    <oll:name xml:lang="en">us/md/cities/baltimore/council/rules</oll:name>
+    <oll:ptag xml:lang="en">collection</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/council/rules</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-08-07/_date/2024-03-13/us/md/cities/baltimore/council/rules/_changes">
+    <rdf:_1 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-08-07/_date/2024-03-13/us/md/cities/baltimore/council/sessions/2020/rules"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-08-07/_date/2024-03-13/us/md/cities/baltimore/council/rules/_elements">
+    <rdf:_1 xml:lang="en">Historic Council Rules</rdf:_1>
+    <rdf:_2 rdf:resource="https://codes.baltimorecity.gov/us/md/cities/baltimore/council/sessions/2020/rules"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+</rdf:RDF>
