@@ -1,0 +1,40 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-08-14/_date/2024-06-01/us/md/cities/baltimore/charter">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-08-14</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://codes.baltimorecity.gov/_publication/2025-08-14/us/md/cities/baltimore/charter"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Article I General Provisions(§§ 1 – 19)
+Article II General Powers(§§ (1) – (71))
+Article III City Council(§§ 1 – 15)
+Article IV Mayor(§§ 1 – 8)
+Article V Comptroller(§§ 1 – 15)
+Article VI Board of Estimates(§§ 1 – 18)
+Article VII Executive Departments(§§ 1 – 141)
+Article VIII Franchises(§§ 1 – 9)
+Article IX Transition Provisions(§§ 1 – 8)
+Article X Office of the Inspector General(§§ 1 – 7)
+Article XI Charter Review Commission(§§ 1 – 6)
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Charter of Baltimore City</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2025-08-14/2024-06-01]: City of Baltimore, Md., Charter</rdfs:label>
+    <oll:codifiedDate>2024-06-01</oll:codifiedDate>
+    <oll:docId>City of Baltimore, Md., Charter</oll:docId>
+    <oll:hasChanges rdf:resource="https://codes.baltimorecity.gov/_publication/2025-08-14/_date/2024-06-01/us/md/cities/baltimore/charter/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://codes.baltimorecity.gov/_publication/2025-08-14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-08-14/_date/2024-06-01/us/md/cities/baltimore/charter/II/(27)">
+    <oll:cite xml:lang="en"> Article II, § (27)</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Charter|II|(27)|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/charter/II/(27)</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-08-14/_date/2024-06-01/us/md/cities/baltimore/charter/_changes">
+    <rdf:_1 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-08-14/_date/2024-06-01/us/md/cities/baltimore/charter/II/(27)"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
