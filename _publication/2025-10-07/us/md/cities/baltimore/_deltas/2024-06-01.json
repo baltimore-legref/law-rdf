@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "doc": "City of Baltimore, Md., Charter",
+      "path": "II|\u00a7(27)",
+      "ptag": "section",
+      "cite": " Article II, \u00a7 (27)",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/charter/II/(27)",
+      "doc_mpath": "City of Baltimore, Md., Charter|II|(27)|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Laws of Md., ch. 947 (2024 Session Md. Gen. Assembly)",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/md/legis/laws/2024/947",
+      "doc_mpath": "Laws of Md., ch. 947 (2024 Session Md. Gen. Assembly)|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/legis/acts|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-10-07",
+  "codified_date": "2024-06-01",
+  "reasons": {
+    "Laws of Md., ch. 947 (2024 Session Md. Gen. Assembly)": [
+      "effective"
+    ]
+  }
+}
