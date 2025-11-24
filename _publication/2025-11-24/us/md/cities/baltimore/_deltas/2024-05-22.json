@@ -1,0 +1,3380 @@
+{
+  "data": [
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a740-14",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 40-14",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/40-14",
+      "doc_mpath": "City of Baltimore, Md., Code|1|40|40-14|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a741-14",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 41-14",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/41-14",
+      "doc_mpath": "City of Baltimore, Md., Code|1|41|41-14|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "26|\u00a76-7",
+      "ptag": "section",
+      "cite": " Article 26, \u00a7 6-7",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/26/6-7",
+      "doc_mpath": "City of Baltimore, Md., Code|26|6|6-7|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "32|\u00a75-201",
+      "ptag": "section",
+      "cite": " Article 32, \u00a7 5-201",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/32/5-201",
+      "doc_mpath": "City of Baltimore, Md., Code|32|5|2|5-201|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes",
+      "ptag": "container",
+      "cite": "Building Codes",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|\u00a71-101",
+      "ptag": "section",
+      "cite": "Building Codes, Part I, \u00a7 1-101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/I/1-101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|I|1-101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|\u00a71-102",
+      "ptag": "section",
+      "cite": "Building Codes, Part I, \u00a7 1-102",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/I/1-102",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|I|1-102|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|1|101",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|1|101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|10|1016to1030",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Sections 1016\u00a0to\u00a01030",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/1016to1030",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|10|1016to1030|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IBC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|10|1016to1031",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Sections 1016\u00a0to\u00a01031",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/1016to1031",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|10|1016to1031|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IBC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|1|103",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 103",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/103",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|1|103|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|1|104",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 104",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/104",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|1|104|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|1|105",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 105",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/105",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|1|105|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|1|107",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 107",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/107",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|1|107|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|1|109",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 109",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/109",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|1|109|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|1|110",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 110",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/110",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|1|110|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|1|114",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 114",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/114",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|1|114|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|1|115",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 115",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/115",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|1|115|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|1|116",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 116",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/116",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|1|116|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|12|1209",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 1209",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/1209",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|12|1209|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|12|1210",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 1210",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/1210",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|12|1210|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IBC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|1|123",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 123",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/123",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|1|123|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|15|1504",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 1504",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/1504",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|15|1504|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|15|1505to1509",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Sections 1505\u00a0to\u00a01509",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/1505to1509",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|15|1505to1509|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IBC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|15|1505to1510",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Sections 1505\u00a0to\u00a01510",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/1505to1510",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|15|1505to1510|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IBC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|15|1510",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 1510",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/1510",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|15|1510|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|15|1511",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 1511",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/1511",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|15|1511|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|15|1511to1512",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Sections 1511\u00a0to\u00a01512",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/1511to1512",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|15|1511to1512|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IBC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|15|1512",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 1512",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/1512",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|15|1512|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IBC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|16|1607",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 1607",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/1607",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|16|1607|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|18|1809",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 1809",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/1809",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|18|1809|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|\u00a72-101",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, \u00a7 2-101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/2-101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|2-101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|2|202",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 202",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/202",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|2|202|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|28|2801",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 2801",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/2801",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|28|2801|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|29|2901",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 2901",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/2901",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|29|2901|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|29|2902",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 2902",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/2902",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|29|2902|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|3|310",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 310",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/310",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|3|310|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|31|3114",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 3114",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/3114",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|31|3114|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Reserved"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|31|3114to3115",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Sections 3114\u00a0to\u00a03115",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/3114to3115",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|31|3114to3115|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Reserved"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|31|3115",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 3115",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/3115",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|31|3115|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IBC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|31|3116",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 3116",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/3116",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|31|3116|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|3|312",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 312",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/312",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|3|312|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|36|3601",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 3601",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/3601",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|36|3601|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|38|3801",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 3801",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/3801",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|38|3801|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|38|3803",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 3803",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/3803",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|38|3803|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|4|403",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 403",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/403",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|4|403|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|4|419",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 419",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/419",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|4|419|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|7|701to704",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Sections 701\u00a0to\u00a0704",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/701to704",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|7|701to704|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IBC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|7|701to705",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Sections 701\u00a0to\u00a0705",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/701to705",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|7|701to705|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IBC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|7|705",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 705",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/705",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|7|705|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|9|902",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 902",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/902",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|9|902|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|1|100|100.1",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Section 100.1",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/100.1",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|1|100|100.1|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|2|210|210.24to210.70",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Sections 210.24\u00a0to\u00a0210.70",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/21024to21070",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|2|210|21024to21070|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|2|210|210.24to210.71",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Sections 210.24\u00a0to\u00a0210.71",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/21024to21071",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|2|210|21024to21071|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|2|225|225.30",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Section 225.30",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/225.30",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|2|225|225.30|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Introductory paragraph as in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|2|230|230.24",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Section 230.24",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/230.24",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|2|230|230.24|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Introductory paragraph as in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|2|230|230.85",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Section 230.85",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/230.85",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|2|230|230.85|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|2|230|230.41to230.212",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Sections 230.41\u00a0to\u00a0230.212",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/23041to230212",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|2|230|23041to230212|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|2|230|230.41to230.84",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Sections 230.41\u00a0to\u00a0230.84",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/23041to23084",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|2|230|23041to23084|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|2|230|230.86to230.212",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Sections 230.86\u00a0to\u00a0230.212",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/23086to230212",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|2|230|23086to230212|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|2|250|250.70to250.109",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Sections 250.70\u00a0to\u00a0250.109",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/25070to250109",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|2|250|25070to250109|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|2|250|250.70to250.194",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Sections 250.70\u00a0to\u00a0250.194",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/25070to250194",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|2|250|25070to250194|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|\u00a73-101",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, \u00a7 3-101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/3-101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|3-101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|6|600|600.6",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Section 600.6",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/600.6",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|6|600|600.6|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Introductory paragraph as in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|6|695|695.6",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Section 695.6",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/695.6",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|6|695|695.6|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Introductory paragraph as in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|7|700|700.12",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Section 700.12",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/700.12",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|7|700|700.12|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Introductory Paragraphs as in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|7|701|701.12",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Section 701.12",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/701.12",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|7|701|701.12|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Introductory paragraphs as in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|7|701|701.25to701.27",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Sections 701.25\u00a0to\u00a0701.27",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/70125to70127",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|7|701|70125to70127|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|III|7|701|701.30to701.32",
+      "ptag": "section",
+      "cite": "Building Codes, Part III, Sections 701.30\u00a0to\u00a0701.32",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/III/70130to70132",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|III|7|701|70130to70132|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in NEC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|1|103",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Section 103",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/103",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|1|103|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|1|104",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Section 104",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/104",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|1|104|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|1|106",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Section 106",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/106",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|1|106|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|1|107",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Section 107",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/107",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|1|107|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFGC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|1|108",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Section 108",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/108",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|1|108|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFGC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|1|109",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Section 109",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/109",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|1|109|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFGC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|1|110",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Section 110",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/110",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|1|110|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFGC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|1|111",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Section 111",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/111",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|1|111|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFGC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|1|112",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Section 112",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/112",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|1|112|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFGC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|1|113",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Section 113",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/113",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|1|113|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|1|114",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Section 114",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/114",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|1|114|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|1|115",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Section 115",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/115",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|1|115|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|1|116",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Section 116",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/116",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|1|116|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|2|202",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Section 202",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/202",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|2|202|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|\u00a74-101",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, \u00a7 4-101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/4-101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|4-101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|6|622to635",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Sections 622\u00a0to\u00a0635",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/622to635",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|6|622to635|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFGC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IV|6|622to636",
+      "ptag": "section",
+      "cite": "Building Codes, Part IV, Sections 622\u00a0to\u00a0636",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IV/622to636",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IV|6|622to636|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFGC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-A|1|106",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-A, Section 106",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-A/106",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-A|1|106|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IECC-C"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-A|1|107",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-A, Section 107",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-A/107",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-A|1|107|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IECC-C"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-A|1|108",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-A, Section 108",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-A/108",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-A|1|108|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IECC-C"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-A|1|109",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-A, Section 109",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-A/109",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-A|1|109|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted; But see \u00a7\u00a0112.2 of this Chapter"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-A|1|110",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-A, Section 110",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-A/110",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-A|1|110|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted; See  \u00a7113 of this Chapter"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-A|1|110to111",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-A, Sections 110\u00a0to\u00a0111",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-A/110to111",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-A|1|110to111|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Reserved"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-A|1|111",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-A, Section 111",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-A/111",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-A|1|111|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Reserved"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-A|2|202",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-A, Section 202",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-A/202",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-A|2|202|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-A|4|401",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-A, Section 401",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-A/401",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-A|4|401|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IECC-C"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|\u00a79A-101",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-A, \u00a7 9A-101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-A/9A-101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-A|9A-101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-A|attachments|A",
+      "ptag": "attachment",
+      "cite": "Appendix A",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-A/attachments/A",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-A|attachments|A|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted; See \u00a7\u00a0113 of this Part IX-A"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-A|attachments|B",
+      "ptag": "attachment",
+      "cite": "Appendix B",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-A/attachments/B",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-A|attachments|B|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IECC-C"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-A|attachments|C",
+      "ptag": "attachment",
+      "cite": "Appendix C",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-A/attachments/C",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-A|attachments|C|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IECC-C"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-B|1|106",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-B, Section 106",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-B/106",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-B|1|106|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IECC-R"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-B|1|107",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-B, Section 107",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-B/107",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-B|1|107|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IECC-R"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-B|1|108",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-B, Section 108",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-B/108",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-B|1|108|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IECC-R"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-B|1|109",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-B, Section 109",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-B/109",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-B|1|109|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted; See \u00a7\u00a0112.2 of this Chapter"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-B|1|110",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-B, Section 110",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-B/110",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-B|1|110|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted; See \u00a7113 of this Chapter"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-B|1|110to111",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-B, Sections 110\u00a0to\u00a0111",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-B/110to111",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-B|1|110to111|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Reserved"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-B|1|111",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-B, Section 111",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-B/111",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-B|1|111|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Reserved"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-B|2|202",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-B, Section 202",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-B/202",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-B|2|202|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-B|4|405",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-B, Section 405",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-B/405",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-B|4|405|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IECC-R, subject to the following MBPS Modification:"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-B|4|406",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-B, Section 406",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-B/406",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-B|4|406|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-B|4|407to408",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-B, Sections 407\u00a0to\u00a0408",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-B/407to408",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-B|4|407to408|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IECC-R"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|\u00a79B-101",
+      "ptag": "section",
+      "cite": "Building Codes, Part IX-B, \u00a7 9B-101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-B/9B-101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-B|9B-101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-B|attachments|A",
+      "ptag": "attachment",
+      "cite": "Appendix A",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-B/attachments/A",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-B|attachments|A|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted; See \u00a7\u00a0113 of this Part IX-B"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-B|attachments|B",
+      "ptag": "attachment",
+      "cite": "Appendix B",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-B/attachments/B",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-B|attachments|B|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IECC-C"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|IX-B|attachments|C",
+      "ptag": "attachment",
+      "cite": "Appendix C",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/IX-B/attachments/C",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|IX-B|attachments|C|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IECC-R"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|1|103",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Section 103",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/103",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|1|103|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|1|104",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Section 104",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/104",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|1|104|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|1|106",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Section 106",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/106",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|1|106|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|1|107",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Section 107",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/107",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|1|107|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IMC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|1|108",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Section 108",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/108",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|1|108|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IMC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|1|109",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Section 109",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/109",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|1|109|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IMC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|1|110",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Section 110",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/110",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|1|110|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IMC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|1|111",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Section 111",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/111",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|1|111|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IMC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|1|112",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Section 112",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/112",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|1|112|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IMC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|1|113",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Section 113",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/113",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|1|113|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|1|114",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Section 114",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/114",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|1|114|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|1|115",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Section 115",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/115",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|1|115|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|1|116",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Section 116",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/116",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|1|116|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|2|202",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Section 202",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/202",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|2|202|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|\u00a75-101",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, \u00a7 5-101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/5-101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|5-101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|5|501",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Section 501",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/501",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|5|501|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|6|604to607",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Sections 604\u00a0to\u00a0607",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/604to607",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|6|604to607|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IMC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|6|604to608",
+      "ptag": "section",
+      "cite": "Building Codes, Part V, Sections 604\u00a0to\u00a0608",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/604to608",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|6|604to608|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IMC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|attachments|AandB",
+      "ptag": "attachment",
+      "cite": "Appendices A and B",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/attachments/aandb",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|attachments|aandb|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Informational.  Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|V|attachments|A,B,andC",
+      "ptag": "attachment",
+      "cite": "Appendices A, B, and C",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/V/attachments/abandc",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|V|attachments|abandc|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Informational.  Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|1|101",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Section 101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|1|101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|1|103",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Section 103",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/103",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|1|103|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|1|104",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Section 104",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/104",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|1|104|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|1|106",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Section 106",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/106",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|1|106|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|1|107",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Section 107",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/107",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|1|107|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IPC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|1|108",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Section 108",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/108",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|1|108|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IPC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|1|109",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Section 109",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/109",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|1|109|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IPC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|1|110",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Section 110",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/110",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|1|110|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IPC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|1|111",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Section 111",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/111",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|1|111|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IPC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|1|112",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Section 112",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/112",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|1|112|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IPC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|1|113",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Section 113",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/113",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|1|113|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|1|114",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Section 114",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/114",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|1|114|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted. See \u00a7\u00a0113 of this Chapter."
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|1|115",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Section 115",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/115",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|1|115|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|1|116",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Section 116",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/116",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|1|116|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|2|202",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Section 202",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/202",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|2|202|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|\u00a76-101",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, \u00a7 6-101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/6-101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|6-101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|7|709to716",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Sections 709\u00a0to\u00a0716",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/709to716",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|7|709to716|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IPC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|7|709to718",
+      "ptag": "section",
+      "cite": "Building Codes, Part VI, Sections 709\u00a0to\u00a0718",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/709to718",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|7|709to718|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IPC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VI|attachments|F",
+      "ptag": "attachment",
+      "cite": "Appendix F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VI/attachments/F",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VI|attachments|F|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|1|102",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 102",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/102",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|1|102|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|1|103",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 103",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/103",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|1|103|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|1|104",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 104",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/104",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|1|104|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|1|105",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 105",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/105",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|1|105|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|1|106",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 106",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/106",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|1|106|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|1|107",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 107",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/107",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|1|107|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|1|108",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 108",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/108",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|1|108|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|1|109",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 109",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/109",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|1|109|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|1|110",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 110",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/110",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|1|110|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|1|111",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 111",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/111",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|1|111|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|1|112",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 112",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/112",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|1|112|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|1|113",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 113",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/113",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|1|113|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|1|114",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 114",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/114",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|1|114|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|1|115",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 115",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/115",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|1|115|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|2|202",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 202",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/202",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|2|202|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|\u00a77-101",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, \u00a7 7-101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/7-101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|7-101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VII|7|701",
+      "ptag": "section",
+      "cite": "Building Codes, Part VII, Section 701",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VII/701",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VII|7|701|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|1|103",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Section 103",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/103",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|1|103|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|1|104",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Section 104",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/104",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|1|104|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|1|110",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Section 110",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/110",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|1|110|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|2|202",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Section 202",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/202",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|2|202|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|3|309to319",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Sections 309\u00a0to\u00a0319",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/309to319",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|3|309to319|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|3|309to321",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Sections 309\u00a0to\u00a0321",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/309to321",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|3|309to321|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|4|405",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Section 405",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/405",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|4|405|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|\u00a78-101",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, \u00a7 8-101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/8-101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|8-101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|9",
+      "ptag": "container",
+      "cite": "Building Codes, Part VIII, Chapter 9",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/9",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|9|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|9|901",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Section 901",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/901",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|9|901|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|9|901to902",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Sections 901\u00a0to\u00a0902",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/901to902",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|9|901to902|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|9|902",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Section 902",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/902",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|9|902|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|9|903",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Section 903",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/903",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|9|903|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|9|904",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Section 904",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/904",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|9|904|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|9|904to905",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Sections 904\u00a0to\u00a0905",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/904to905",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|9|904to905|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|9|905",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Section 905",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/905",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|9|905|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|9|906",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Section 906",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/906",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|9|906|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|9|907",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Section 907",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/907",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|9|907|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|9|908to914",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Sections 908\u00a0to\u00a0914",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/908to914",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|9|908to914|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|9|908to917",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Sections 908\u00a0to\u00a0917",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/908to917",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|9|908to917|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|9|915",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Section 915",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/915",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|9|915|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IFC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|9|916",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Section 916",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/916",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|9|916|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|VIII|9|918",
+      "ptag": "section",
+      "cite": "Building Codes, Part VIII, Section 918",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/VIII/918",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|VIII|9|918|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|\u00a710-101",
+      "ptag": "section",
+      "cite": "Building Codes, Part X, \u00a7 10-101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/X/10-101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|X|10-101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|X|I|1|101",
+      "ptag": "section",
+      "cite": "Building Codes, Part X, Section 101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/X/101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|X|I|1|101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|X|II|2|202",
+      "ptag": "section",
+      "cite": "Building Codes, Part X, Section 202",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/X/202",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|X|II|2|202|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|X|III|3|302",
+      "ptag": "section",
+      "cite": "Building Codes, Part X, Section 302",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/X/302",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|X|III|3|302|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|X|III|3|302to308",
+      "ptag": "section",
+      "cite": "Building Codes, Part X, Sections 302\u00a0to\u00a0308",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/X/302to308",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|X|III|3|302to308|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IRC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|X|III|3|303to308",
+      "ptag": "section",
+      "cite": "Building Codes, Part X, Sections 303\u00a0to\u00a0308",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/X/303to308",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|X|III|3|303to308|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IRC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|X|III|3|326",
+      "ptag": "section",
+      "cite": "Building Codes, Part X, Section 326",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/X/326",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|X|III|3|326|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IRC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|X|III|3|327",
+      "ptag": "section",
+      "cite": "Building Codes, Part X, Section 327",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/X/327",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|X|III|3|327|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IRC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|X|III|3|328",
+      "ptag": "section",
+      "cite": "Building Codes, Part X, Section 328",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/X/328",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|X|III|3|328|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IRC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|X|III|3|328to330",
+      "ptag": "section",
+      "cite": "Building Codes, Part X, Sections 328\u00a0to\u00a0330",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/X/328to330",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|X|III|3|328to330|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Reserved"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|X|III|3|329",
+      "ptag": "section",
+      "cite": "Building Codes, Part X, Section 329",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/X/329",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|X|III|3|329|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IRC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|X|III|3|330to332",
+      "ptag": "section",
+      "cite": "Building Codes, Part X, Sections 330\u00a0to\u00a0332",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/X/330to332",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|X|III|3|330to332|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Reserved"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|X|III|3|331",
+      "ptag": "section",
+      "cite": "Building Codes, Part X, Section 331",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/X/331",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|X|III|3|331|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|X|III|3|333",
+      "ptag": "section",
+      "cite": "Building Codes, Part X, Section 333",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/X/333",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|X|III|3|333|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|1",
+      "ptag": "container",
+      "cite": "Building Codes, Part XI, Chapter 1",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/1",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|1|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|10|1001.10",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 1001.10",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/1001.10",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|10|1001.10|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|10|1001.11",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 1001.11",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/1001.11",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|10|1001.11|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|10|1001.3",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 1001.3",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/1001.3",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|10|1001.3|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|10|1001.4",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 1001.4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/1001.4",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|10|1001.4|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|10|1001.5",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 1001.5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/1001.5",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|10|1001.5|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|10|1001.6",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 1001.6",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/1001.6",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|10|1001.6|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|10|1001.7",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 1001.7",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/1001.7",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|10|1001.7|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IgCC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|10|1001.8",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 1001.8",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/1001.8",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|10|1001.8|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|10|1001.9",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 1001.9",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/1001.9",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|10|1001.9|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|1|101",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|1|101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|1|102",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 102",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/102",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|1|102|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|1|103",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 103",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/103",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|1|103|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IgCC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|1|104",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 104",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/104",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|1|104|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|1|105",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 105",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/105",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|1|105|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IgCC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|1|106",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 106",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/106",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|1|106|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|1|107",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 107",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/107",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|1|107|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in IgCC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|1|108",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 108",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/108",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|1|108|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|1|109",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 109",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/109",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|1|109|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|\u00a711-101",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, \u00a7 11-101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/11-101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|11-101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|1|110",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 110",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/110",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|1|110|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|1|111",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 111",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/111",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|1|111|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|3|302",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 302",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/302",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|3|302|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|6|601.3",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 601.3",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/601.3",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|6|601.3|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|7|701.4",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 701.4",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/701.4",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|7|701.4|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|7|701.5",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 701.5",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/701.5",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|7|701.5|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|8|801.4",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 801.4",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/801.4",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|8|801.4|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XI|9|901.3",
+      "ptag": "section",
+      "cite": "Building Codes, Part XI, Section 901.3",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XI/901.3",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XI|9|901.3|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|1",
+      "ptag": "container",
+      "cite": "Building Codes, Part XII, Chapter 1",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/1",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|1|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|1|103",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Section 103",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/103",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|1|103|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|1|104",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Section 104",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/104",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|1|104|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|1|105",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Section 105",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/105",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|1|105|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|1|106",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Section 106",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/106",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|1|106|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in ISPSC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|1|107",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Section 107",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/107",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|1|107|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|1|108",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Section 108",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/108",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|1|108|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in ISPSC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|1|109",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Section 109",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/109",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|1|109|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in ISPSC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|1|110",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Section 110",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/110",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|1|110|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in ISPSC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|1|111",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Section 111",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/111",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|1|111|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|1|112",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Section 112",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/112",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|1|112|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Not Adopted"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|1|113",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Section 113",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/113",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|1|113|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|1|114",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Section 114",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/114",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|1|114|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|1|115",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Section 115",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/115",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|1|115|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|\u00a712-101",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, \u00a7 12-101",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/12-101",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|12-101|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|2|202",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Section 202",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/202",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|2|202|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|3|305to323",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Sections 305\u00a0to\u00a0323",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/305to323",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|3|305to323|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in ISPSC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|3|305to325",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Sections 305\u00a0to\u00a0325",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/305to325",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|3|305to325|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "As in ISPSC"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|XII|6|612",
+      "ptag": "section",
+      "cite": "Building Codes, Part XII, Section 612",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/XII/612",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|XII|6|612|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "health|\u00a719-302",
+      "ptag": "section",
+      "cite": "Health Code, \u00a7 19-302",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/health/19-302",
+      "doc_mpath": "City of Baltimore, Md., Code|health|19|3|19-302|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "health|\u00a76-603.1",
+      "ptag": "section",
+      "cite": "Health Code, \u00a7 6-603.1",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/health/6-603.1",
+      "doc_mpath": "City of Baltimore, Md., Code|health|6|6|6-603.1|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2024",
+      "url": "/us/md/cities/baltimore/ordinances/2024",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/ordinances|2024|",
+      "docs_changes": {
+        "City of Balt., Md., Ord. 24-341": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "City of Balt., Md., Ord. 24-341",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added",
+        "Element effective"
+      ],
+      "url": "/us/md/cities/baltimore/ordinances/2024/24-341",
+      "doc_mpath": "City of Balt., Md., Ord. 24-341|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of Balt., Md., Ord. 24-341",
+      "path": "\u00a71",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/ordinances/2024/24-341#1",
+      "doc_mpath": "City of Balt., Md., Ord. 24-341|1|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/ordinances|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-11-24",
+  "codified_date": "2024-05-22",
+  "reasons": {
+    "City of Balt., Md., Ord. 24-341": [
+      "created",
+      "effective"
+    ]
+  }
+}
