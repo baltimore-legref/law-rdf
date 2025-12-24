@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "24|\u00a72-1",
+      "ptag": "section",
+      "cite": " Article 24, \u00a7 2-1",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/24/2-1",
+      "doc_mpath": "City of Baltimore, Md., Code|24|2|2-1|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "building-codes|II|1|121",
+      "ptag": "section",
+      "cite": "Building Codes, Part II, Section 121",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/building-codes/II/121",
+      "doc_mpath": "City of Baltimore, Md., Code|building-codes|II|1|121|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Balt., Md., Ord. 25-047",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/md/cities/baltimore/ordinances/2025/25-047",
+      "doc_mpath": "City of Balt., Md., Ord. 25-047|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/ordinances|2025|",
+      "reason": null
+    },
+    {
+      "doc": "City of Balt., Md., Ord. 25-048",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/md/cities/baltimore/ordinances/2025/25-048",
+      "doc_mpath": "City of Balt., Md., Ord. 25-048|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/ordinances|2025|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-12-24",
+  "codified_date": "2025-11-22",
+  "reasons": {
+    "City of Balt., Md., Ord. 25-047": [
+      "effective"
+    ],
+    "City of Balt., Md., Ord. 25-048": [
+      "effective"
+    ]
+  }
+}
