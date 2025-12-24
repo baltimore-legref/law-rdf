@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "32|\u00a712-904",
+      "ptag": "section",
+      "cite": " Article 32, \u00a7 12-904",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/32/12-904",
+      "doc_mpath": "City of Baltimore, Md., Code|32|12|9|12-904|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "32|attachments|12-903(4)",
+      "ptag": "attachment",
+      "cite": "Table 12-903(4)",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/32/zoning-tables/12-903(4)",
+      "doc_mpath": "City of Baltimore, Md., Code|32|attachments|12-903(4)|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2025",
+      "url": "/us/md/cities/baltimore/ordinances/2025",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/ordinances|2025|",
+      "docs_changes": {
+        "City of Balt., Md., Ord. 25-043": "Element added",
+        "City of Balt., Md., Ord. 25-045": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "City of Balt., Md., Ord. 25-043",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added",
+        "Element effective"
+      ],
+      "url": "/us/md/cities/baltimore/ordinances/2025/25-043",
+      "doc_mpath": "City of Balt., Md., Ord. 25-043|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/ordinances|2025|",
+      "reason": null
+    },
+    {
+      "doc": "City of Balt., Md., Ord. 25-043",
+      "path": "\u00a71",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/ordinances/2025/25-043#1",
+      "doc_mpath": "City of Balt., Md., Ord. 25-043|1|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/ordinances|2025|",
+      "reason": null
+    },
+    {
+      "doc": "City of Balt., Md., Ord. 25-045",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/ordinances/2025/25-045",
+      "doc_mpath": "City of Balt., Md., Ord. 25-045|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/ordinances|2025|",
+      "reason": null
+    },
+    {
+      "doc": "City of Balt., Md., Ord. 25-045",
+      "path": "\u00a71",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/ordinances/2025/25-045#1",
+      "doc_mpath": "City of Balt., Md., Ord. 25-045|1|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/ordinances|2025|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-12-24",
+  "codified_date": "2025-09-15",
+  "reasons": {
+    "City of Balt., Md., Ord. 25-043": [
+      "created",
+      "effective"
+    ],
+    "City of Balt., Md., Ord. 25-045": [
+      "created"
+    ]
+  }
+}
