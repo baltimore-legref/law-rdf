@@ -1,0 +1,36 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2024-04-24/us/md/cities/baltimore/ordinances/2024/24-338">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-12-24</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://baltimore.legistar1.com/baltimore/attachments/24eb73ce-d30e-40a6-98e2-9a7c4105209d.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/us/md/cities/baltimore/ordinances/2024/24-338"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Ord. 24-338. Baltimore Police Department - Trauma-Informed Care Training</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+    <rdfs:label xml:lang="en">[2025-12-24/2024-04-24]: City of Balt., Md., Ord. 24-338</rdfs:label>
+    <oll:buildReason xml:lang="en">created</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-04-24</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-05-24</oll:dateEffective>
+    <oll:docId>City of Balt., Md., Ord. 24-338</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">City of Balt., Md., Ord. 24-338|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2024-04-24/us/md/cities/baltimore/ordinances/2024/24-338/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/ordinances/2024/24-338</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2024-04-24/us/md/cities/baltimore/ordinances/2024/24-338#1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Balt., Md., Ord. 24-338|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/ordinances/2024/24-338#1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2024-04-24/us/md/cities/baltimore/ordinances/2024/24-338/_changes">
+    <rdf:_1 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2024-04-24/us/md/cities/baltimore/ordinances/2024/24-338"/>
+    <rdf:_2 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2024-04-24/us/md/cities/baltimore/ordinances/2024/24-338#1"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
