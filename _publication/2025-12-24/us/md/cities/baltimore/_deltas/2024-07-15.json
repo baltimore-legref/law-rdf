@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|61",
+      "ptag": "container",
+      "cite": " Article 1, Subtitle 61",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/61",
+      "doc_mpath": "City of Baltimore, Md., Code|1|61|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a761-1",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 61-1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/61-1",
+      "doc_mpath": "City of Baltimore, Md., Code|1|61|61-1|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a761-2",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 61-2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/61-2",
+      "doc_mpath": "City of Baltimore, Md., Code|1|61|61-2|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a761-3",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 61-3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/61-3",
+      "doc_mpath": "City of Baltimore, Md., Code|1|61|61-3|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a761-4",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 61-4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/61-4",
+      "doc_mpath": "City of Baltimore, Md., Code|1|61|61-4|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a761-5",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 61-5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/61-5",
+      "doc_mpath": "City of Baltimore, Md., Code|1|61|61-5|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Balt., Md., Ord. 24-291",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/md/cities/baltimore/ordinances/2024/24-291",
+      "doc_mpath": "City of Balt., Md., Ord. 24-291|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/ordinances|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-12-24",
+  "codified_date": "2024-07-15",
+  "reasons": {
+    "City of Balt., Md., Ord. 24-291": [
+      "effective"
+    ]
+  }
+}
