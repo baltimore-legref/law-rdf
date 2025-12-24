@@ -1,0 +1,415 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-12-24</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/us/md/cities/baltimore/code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Building, Fire, and Related Codes 2024 Edition(§§ 1-101 – 612)
+General Provisions Article(§§ 1-101 – 4-404)
+Health Code(§§ 1-101 – 19-402)
+Article 1 Mayor, City Council, and Municipal Agencies(§§ 1-1 – 61-5)
+Article 2 Consumer Protections(§§ 1-1 – 17-12)
+Article 4 Community Relations(§§ 1-1 – 4-8)
+Article 5 Finance, Property, and Procurement(§§ 1-1 – 49-2)
+Article 6 Historical and Architectural Preservation(§§ 1-1 – 18A-9)
+Article 7 Natural Resources(§§ 1-1 – 62-11)
+Article 8 Ethics(§§ 1-1 – 9-22)
+Article 9 Fire Suppression and Prevention(§§ 1-1 – 10-5)
+Article 10 Harbors, Docks, and Wharves(§§ 1-1 – 10-3)
+Article 11 Labor and Employment(§§ 1-1 – 19A-12)
+Article 12 Municipal Labor Relations(§§ 1-1 – 11-13)
+Article 13 Housing and Urban Renewal(§§ 2-1 – 21-6)
+Article 14 Special Benefits Districts(§§ 1-1 – 20-17)
+Article 15 Licensing and Regulation(§§ 1-1 – 48-26)
+Article 16 Markets(§§ 1-1 – 8-10)
+Article 17 Police Department(§§ 1-1 – 3-3)
+Article 18 Educational and Cultural Programs(§§ 1-1 – 17-11)
+Article 19 Police Ordinances(§§ 1-1 – 73-4)
+Article 20 Railroads(§§ 1-1 – 11-2)
+Article 22 Retirement Systems(§§ 1 – 49)
+Article 22A Retirement Savings Plan(§§ 1-1 – 11-3)
+Article 23 Sanitation(§§ 1-1 – 21-2)
+Article 24 Water(§§ 1-1 – 21-12)
+Article 25 Sewers(§§ 1-1 – 23-4)
+Article 26 Surveys, Streets, and Highways(§§ 1-1 – 40-50)
+Article 27 Stormwater Remediation Fees(§§ 1-1 – 6-2)
+Article 28 Taxes(§§ 1-1 – 32-11)
+Article 31 Transit and Traffic(§§ 1-1 – 38-27)
+Article 32 Zoning(§§ 1-101 – 19-303)
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Baltimore City Code</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2025-12-24/2025-05-31]: City of Baltimore, Md., Code</rdfs:label>
+    <oll:codifiedDate>2025-05-31</oll:codifiedDate>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-31</oll:dateCurrentThrough>
+    <oll:docId>City of Baltimore, Md., Code</oll:docId>
+    <oll:hasChanges rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24"/>
+    <oll:lastCodifiedDocument rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/us/md/cities/baltimore/ordinances/2025/25-015"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53">
+    <oll:cite xml:lang="en"> Article 1, Subtitle 53</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|1|53|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/1/53</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53-1">
+    <oll:cite xml:lang="en"> Article 1, § 53-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|1|53|53-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/1/53-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53-2">
+    <oll:cite xml:lang="en"> Article 1, § 53-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|1|53|53-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/1/53-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53-3">
+    <oll:cite xml:lang="en"> Article 1, § 53-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|1|53|53-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/1/53-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53-4">
+    <oll:cite xml:lang="en"> Article 1, § 53-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|1|53|53-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/1/53-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53-5">
+    <oll:cite xml:lang="en"> Article 1, § 53-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|1|53|53-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/1/53-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53-6">
+    <oll:cite xml:lang="en"> Article 1, § 53-6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|1|53|53-6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/1/53-6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53-7">
+    <oll:cite xml:lang="en"> Article 1, § 53-7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|1|53|53-7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/1/53-7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/1-205">
+    <oll:cite xml:lang="en"> Article 32, § 1-205</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|1|2|1-205|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/1-205</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/1-307">
+    <oll:cite xml:lang="en"> Article 32, § 1-307</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|1|3|1-307|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/1-307</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/1-313">
+    <oll:cite xml:lang="en"> Article 32, § 1-313</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|1|3|1-313|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/1-313</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/12-303">
+    <oll:cite xml:lang="en"> Article 32, § 12-303</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|12|3|12-303|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/12-303</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/12-405">
+    <oll:cite xml:lang="en"> Article 32, § 12-405</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|12|4|12-405|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/12-405</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/14-328">
+    <oll:cite xml:lang="en"> Article 32, § 14-328</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|14|3|14-328|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/14-328</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/14-329">
+    <oll:cite xml:lang="en"> Article 32, § 14-329</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|14|3|14-329|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/14-329</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/15-203">
+    <oll:cite xml:lang="en"> Article 32, § 15-203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|15|2|15-203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/15-203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/16-207">
+    <oll:cite xml:lang="en"> Article 32, § 16-207</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|16|2|16-207|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/16-207</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/16-601">
+    <oll:cite xml:lang="en"> Article 32, § 16-601</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|16|6|16-601|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/16-601</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/18-206">
+    <oll:cite xml:lang="en"> Article 32, § 18-206</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|18|2|18-206|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/18-206</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/18-403">
+    <oll:cite xml:lang="en"> Article 32, § 18-403</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|18|4|18-403|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/18-403</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/18-412">
+    <oll:cite xml:lang="en"> Article 32, § 18-412</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|18|4|18-412|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/18-412</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/3-203">
+    <oll:cite xml:lang="en"> Article 32, § 3-203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|3|2|3-203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/3-203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/4-203">
+    <oll:cite xml:lang="en"> Article 32, § 4-203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|4|2|4-203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/4-203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/4-405">
+    <oll:cite xml:lang="en"> Article 32, § 4-405</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|4|4|4-405|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/4-405</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-201">
+    <oll:cite xml:lang="en"> Article 32, § 5-201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|5|2|5-201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/5-201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-301">
+    <oll:cite xml:lang="en"> Article 32, § 5-301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|5|3|5-301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/5-301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-302">
+    <oll:cite xml:lang="en"> Article 32, § 5-302</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|5|3|5-302|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/5-302</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-308">
+    <oll:cite xml:lang="en"> Article 32, § 5-308</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|5|3|5-308|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/5-308</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-309">
+    <oll:cite xml:lang="en"> Article 32, § 5-309</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|5|3|5-309|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/5-309</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-310">
+    <oll:cite xml:lang="en"> Article 32, § 5-310</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|5|3|5-310|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/5-310</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-406">
+    <oll:cite xml:lang="en"> Article 32, § 5-406</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|5|4|5-406|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/5-406</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-407">
+    <oll:cite xml:lang="en"> Article 32, § 5-407</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|5|4|5-407|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/5-407</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-503">
+    <oll:cite xml:lang="en"> Article 32, § 5-503</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|5|5|5-503|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/5-503</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-601">
+    <oll:cite xml:lang="en"> Article 32, § 5-601</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|5|6|5-601|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/5-601</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-603">
+    <oll:cite xml:lang="en"> Article 32, § 5-603</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|5|6|5-603|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/5-603</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-604">
+    <oll:cite xml:lang="en"> Article 32, § 5-604</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|5|6|5-604|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/5-604</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-901">
+    <oll:cite xml:lang="en"> Article 32, § 5-901</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|5|9|5-901|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/5-901</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/9-703">
+    <oll:cite xml:lang="en"> Article 32, § 9-703</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|9|7|9-703|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/9-703</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/zoning-tables/10-301">
+    <oll:cite xml:lang="en">Table 10-301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|attachments|10-301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/zoning-tables/10-301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/zoning-tables/10-401">
+    <oll:cite xml:lang="en">Table 10-401</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|attachments|10-401|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/zoning-tables/10-401</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/zoning-tables/11-301">
+    <oll:cite xml:lang="en">Table 11-301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|attachments|11-301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/zoning-tables/11-301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/zoning-tables/12-1403">
+    <oll:cite xml:lang="en">Table 12-1403</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|attachments|12-1403|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/zoning-tables/12-1403</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/zoning-tables/12-301">
+    <oll:cite xml:lang="en">Table 12-301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|attachments|12-301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/zoning-tables/12-301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/zoning-tables/12-402">
+    <oll:cite xml:lang="en">Table 12-402</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|attachments|12-402|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/zoning-tables/12-402</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/zoning-tables/15-601">
+    <oll:cite xml:lang="en">Table 15-601</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore, Md., Code|32|attachments|15-601|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/code/32/zoning-tables/15-601</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/_changes">
+    <rdf:_10 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/1-307"/>
+    <rdf:_11 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/1-313"/>
+    <rdf:_12 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/12-303"/>
+    <rdf:_13 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/12-405"/>
+    <rdf:_14 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/14-328"/>
+    <rdf:_15 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/14-329"/>
+    <rdf:_16 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/15-203"/>
+    <rdf:_17 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/16-207"/>
+    <rdf:_18 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/16-601"/>
+    <rdf:_19 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/18-206"/>
+    <rdf:_1 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53"/>
+    <rdf:_20 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/18-403"/>
+    <rdf:_21 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/18-412"/>
+    <rdf:_22 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/3-203"/>
+    <rdf:_23 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/4-203"/>
+    <rdf:_24 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/4-405"/>
+    <rdf:_25 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-201"/>
+    <rdf:_26 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-301"/>
+    <rdf:_27 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-302"/>
+    <rdf:_28 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-308"/>
+    <rdf:_29 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-309"/>
+    <rdf:_2 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53-1"/>
+    <rdf:_30 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-310"/>
+    <rdf:_31 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-406"/>
+    <rdf:_32 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-407"/>
+    <rdf:_33 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-503"/>
+    <rdf:_34 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-601"/>
+    <rdf:_35 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-603"/>
+    <rdf:_36 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-604"/>
+    <rdf:_37 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/5-901"/>
+    <rdf:_38 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/9-703"/>
+    <rdf:_39 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/zoning-tables/10-301"/>
+    <rdf:_3 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53-2"/>
+    <rdf:_40 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/zoning-tables/10-401"/>
+    <rdf:_41 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/zoning-tables/11-301"/>
+    <rdf:_42 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/zoning-tables/12-1403"/>
+    <rdf:_43 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/zoning-tables/12-301"/>
+    <rdf:_44 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/zoning-tables/12-402"/>
+    <rdf:_45 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/zoning-tables/15-601"/>
+    <rdf:_4 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53-3"/>
+    <rdf:_5 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53-4"/>
+    <rdf:_6 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53-5"/>
+    <rdf:_7 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53-6"/>
+    <rdf:_8 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/1/53-7"/>
+    <rdf:_9 rdf:resource="https://codes.baltimorecity.gov/_publication/2025-12-24/_date/2025-05-31/us/md/cities/baltimore/code/32/1-205"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
