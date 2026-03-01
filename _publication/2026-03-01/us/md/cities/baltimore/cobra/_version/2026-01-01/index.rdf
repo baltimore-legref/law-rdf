@@ -1,0 +1,42 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-03-01/_date/2026-01-01/us/md/cities/baltimore/cobra">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-03-01</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://codes.baltimorecity.gov/_publication/2026-03-01/us/md/cities/baltimore/cobra"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title 05 DEPARTMENT OF FINANCE
+Title 07 DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+Title 13 HEALTH DEPARTMENT
+Title 14 DEPARTMENT OF TRANSPORTATION
+Title 15 OFFICE OF EQUITY AND CIVIL RIGHTS
+Title 17 MISCELLANEOUS AGENCIES, BOARDS, AND COMMISSIONS
+Title 19 BOARD OF ETHICS
+Title 21 DEPARTMENT OF PUBLIC WORKS
+Title 22 RECREATION AND PARKS
+Title 23 BOARD OF MUNICIPAL AND ZONING APPEALS
+Title 27 BOARD OF ESTIMATES
+Title 28 DEPARTMENT OF PLANNING
+Title 29 PARKING AUTHORITY OF BALTIMORE CITY
+Title 30 TOWING BOARD
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Code of Baltimore Regulations Annotated</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2026-03-01/2026-01-01]: Code of Baltimore Regulations Annotated</rdfs:label>
+    <oll:buildReason xml:lang="en">effective</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2026-01-01</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-01-01</oll:dateEffective>
+    <oll:docId>Code of Baltimore Regulations Annotated</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Code of Baltimore Regulations Annotated|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://codes.baltimorecity.gov/_publication/2026-03-01/_date/2026-01-01/us/md/cities/baltimore/cobra/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://codes.baltimorecity.gov/_publication/2026-03-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/cobra</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-03-01/_date/2026-01-01/us/md/cities/baltimore/cobra/_changes">
+    <rdf:_1 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-03-01/_date/2026-01-01/us/md/cities/baltimore/cobra"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
