@@ -1,0 +1,1713 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-04-03</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/us/md/cities/baltimore/administrative-manual"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Section 000 Overview(§§ AM-002-1 – AM-002-1)
+Section 100 Administration(§§ AM-101-1 – AM-119-1)
+Section 200 Personnel(§§ AM-200-1 – AM-241-2)
+Section 300 Procurement(§§ AM-301-1 – AM-309-1)
+Section 400 Budget and Appropriations(§§ AM-400-3 – AM-423-1)
+Section 500 Central Services(§§ AM-500-1 – AM-509-2)
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">City of Baltimore Administrative Manual</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2026-04-03/2024-03-13]: City of Baltimore Administrative Manual</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-03-13</oll:codifiedDate>
+    <oll:docId>City of Baltimore Administrative Manual</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/000">
+    <oll:cite xml:lang="en"> Section 000</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|000|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/000</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/000/AM-002-1">
+    <oll:cite xml:lang="en">AM-002-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|000|AM-002-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/000/AM-002-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100">
+    <oll:cite xml:lang="en"> Section 100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-101-1">
+    <oll:cite xml:lang="en">AM-101-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-101-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-101-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-102-1">
+    <oll:cite xml:lang="en">AM-102-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-102-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-102-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-103-1">
+    <oll:cite xml:lang="en">AM-103-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-103-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-103-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-103-2">
+    <oll:cite xml:lang="en">AM-103-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-103-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-103-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-104-1">
+    <oll:cite xml:lang="en">AM-104-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-104-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-104-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-105-1">
+    <oll:cite xml:lang="en">AM-105-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-105-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-105-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-106-1">
+    <oll:cite xml:lang="en">AM-106-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-106-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-106-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-108-1">
+    <oll:cite xml:lang="en">AM-108-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-108-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-108-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-109-1">
+    <oll:cite xml:lang="en">AM-109-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-109-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-109-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-110-1">
+    <oll:cite xml:lang="en">AM-110-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-110-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-110-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-111-1">
+    <oll:cite xml:lang="en">AM-111-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-111-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-111-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-112-1">
+    <oll:cite xml:lang="en">AM-112-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-112-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-112-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-112-2">
+    <oll:cite xml:lang="en">AM-112-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-112-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-112-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-114-1">
+    <oll:cite xml:lang="en">AM-114-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-114-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-114-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-115-1">
+    <oll:cite xml:lang="en">AM-115-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-115-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-115-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-117-1">
+    <oll:cite xml:lang="en">AM-117-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-117-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-117-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-118-1">
+    <oll:cite xml:lang="en">AM-118-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-118-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-118-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-119-1">
+    <oll:cite xml:lang="en">AM-119-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|100|AM-119-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/100/AM-119-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200">
+    <oll:cite xml:lang="en"> Section 200</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-1">
+    <oll:cite xml:lang="en">AM-200-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-200-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-200-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-12">
+    <oll:cite xml:lang="en">AM-200-12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-200-12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-200-12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-13">
+    <oll:cite xml:lang="en">AM-200-13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-200-13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-200-13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-2">
+    <oll:cite xml:lang="en">AM-200-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-200-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-200-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-3">
+    <oll:cite xml:lang="en">AM-200-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-200-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-200-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-4">
+    <oll:cite xml:lang="en">AM-200-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-200-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-200-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-5">
+    <oll:cite xml:lang="en">AM-200-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-200-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-200-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-8">
+    <oll:cite xml:lang="en">AM-200-8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-200-8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-200-8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-201-1">
+    <oll:cite xml:lang="en">AM-201-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-201-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-201-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-201-2">
+    <oll:cite xml:lang="en">AM-201-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-201-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-201-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-201-4">
+    <oll:cite xml:lang="en">AM-201-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-201-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-201-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-201-5">
+    <oll:cite xml:lang="en">AM-201-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-201-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-201-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-202-1">
+    <oll:cite xml:lang="en">AM-202-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-202-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-202-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-202-2">
+    <oll:cite xml:lang="en">AM-202-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-202-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-202-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-203-1">
+    <oll:cite xml:lang="en">AM-203-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-203-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-203-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-203-2">
+    <oll:cite xml:lang="en">AM-203-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-203-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-203-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-203-3">
+    <oll:cite xml:lang="en">AM-203-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-203-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-203-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-203-4">
+    <oll:cite xml:lang="en">AM-203-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-203-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-203-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-203-5">
+    <oll:cite xml:lang="en">AM-203-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-203-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-203-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-1">
+    <oll:cite xml:lang="en">AM-204-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-10">
+    <oll:cite xml:lang="en">AM-204-10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-11">
+    <oll:cite xml:lang="en">AM-204-11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-13">
+    <oll:cite xml:lang="en">AM-204-13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-14">
+    <oll:cite xml:lang="en">AM-204-14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-15">
+    <oll:cite xml:lang="en">AM-204-15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-16">
+    <oll:cite xml:lang="en">AM-204-16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-18">
+    <oll:cite xml:lang="en">AM-204-18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-19">
+    <oll:cite xml:lang="en">AM-204-19</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-19|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-19</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-2">
+    <oll:cite xml:lang="en">AM-204-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-21">
+    <oll:cite xml:lang="en">AM-204-21</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-21|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-21</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-22">
+    <oll:cite xml:lang="en">AM-204-22</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-22|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-22</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-23">
+    <oll:cite xml:lang="en">AM-204-23</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-23|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-23</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-24">
+    <oll:cite xml:lang="en">AM-204-24</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-24|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-24</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-25">
+    <oll:cite xml:lang="en">AM-204-25</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-25|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-25</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-26">
+    <oll:cite xml:lang="en">AM-204-26</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-26|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-26</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-27">
+    <oll:cite xml:lang="en">AM-204-27</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-27|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-27</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-28">
+    <oll:cite xml:lang="en">AM-204-28</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-28|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-28</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-29">
+    <oll:cite xml:lang="en">AM-204-29</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-29|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-29</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-3">
+    <oll:cite xml:lang="en">AM-204-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-30">
+    <oll:cite xml:lang="en">AM-204-30</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-30|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-30</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-31">
+    <oll:cite xml:lang="en">AM-204-31</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-31|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-31</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-32">
+    <oll:cite xml:lang="en">AM-204-32</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-32|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-32</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-4">
+    <oll:cite xml:lang="en">AM-204-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-5">
+    <oll:cite xml:lang="en">AM-204-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-6">
+    <oll:cite xml:lang="en">AM-204-6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-7">
+    <oll:cite xml:lang="en">AM-204-7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-8">
+    <oll:cite xml:lang="en">AM-204-8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-9">
+    <oll:cite xml:lang="en">AM-204-9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-204-9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-204-9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-1">
+    <oll:cite xml:lang="en">AM-205-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-205-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-205-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-10">
+    <oll:cite xml:lang="en">AM-205-10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-205-10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-205-10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-11">
+    <oll:cite xml:lang="en">AM-205-11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-205-11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-205-11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-12">
+    <oll:cite xml:lang="en">AM-205-12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-205-12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-205-12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-13">
+    <oll:cite xml:lang="en">AM-205-13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-205-13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-205-13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-15">
+    <oll:cite xml:lang="en">AM-205-15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-205-15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-205-15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-16">
+    <oll:cite xml:lang="en">AM-205-16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-205-16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-205-16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-17">
+    <oll:cite xml:lang="en">AM-205-17</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-205-17|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-205-17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-2">
+    <oll:cite xml:lang="en">AM-205-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-205-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-205-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-20">
+    <oll:cite xml:lang="en">AM-205-20</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-205-20|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-205-20</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-3">
+    <oll:cite xml:lang="en">AM-205-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-205-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-205-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-4">
+    <oll:cite xml:lang="en">AM-205-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-205-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-205-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-6">
+    <oll:cite xml:lang="en">AM-205-6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-205-6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-205-6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-7">
+    <oll:cite xml:lang="en">AM-205-7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-205-7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-205-7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-9">
+    <oll:cite xml:lang="en">AM-205-9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-205-9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-205-9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-206-1">
+    <oll:cite xml:lang="en">AM-206-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-206-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-206-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-206-2">
+    <oll:cite xml:lang="en">AM-206-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-206-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-206-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-207-3">
+    <oll:cite xml:lang="en">AM-207-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-207-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-207-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-208-1">
+    <oll:cite xml:lang="en">AM-208-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-208-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-208-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-208-2">
+    <oll:cite xml:lang="en">AM-208-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-208-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-208-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-208-3">
+    <oll:cite xml:lang="en">AM-208-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-208-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-208-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-209-1">
+    <oll:cite xml:lang="en">AM-209-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-209-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-209-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-210-1">
+    <oll:cite xml:lang="en">AM-210-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-210-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-210-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-210-2">
+    <oll:cite xml:lang="en">AM-210-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-210-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-210-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-211-1">
+    <oll:cite xml:lang="en">AM-211-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-211-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-211-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-211-2">
+    <oll:cite xml:lang="en">AM-211-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-211-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-211-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-212-1">
+    <oll:cite xml:lang="en">AM-212-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-212-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-212-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-213-1">
+    <oll:cite xml:lang="en">AM-213-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-213-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-213-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-214-1">
+    <oll:cite xml:lang="en">AM-214-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-214-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-214-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-216-1">
+    <oll:cite xml:lang="en">AM-216-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-216-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-216-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-216-2">
+    <oll:cite xml:lang="en">AM-216-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-216-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-216-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-217-3">
+    <oll:cite xml:lang="en">AM-217-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-217-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-217-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-219-1">
+    <oll:cite xml:lang="en">AM-219-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-219-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-219-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-219-2">
+    <oll:cite xml:lang="en">AM-219-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-219-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-219-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-224-1">
+    <oll:cite xml:lang="en">AM-224-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-224-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-224-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-225-1">
+    <oll:cite xml:lang="en">AM-225-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-225-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-225-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-226-1">
+    <oll:cite xml:lang="en">AM-226-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-226-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-226-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-227-1">
+    <oll:cite xml:lang="en">AM-227-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-227-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-227-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-227-2">
+    <oll:cite xml:lang="en">AM-227-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-227-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-227-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-228-1">
+    <oll:cite xml:lang="en">AM-228-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-228-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-228-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-228-2">
+    <oll:cite xml:lang="en">AM-228-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-228-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-228-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-230-1">
+    <oll:cite xml:lang="en">AM-230-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-230-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-230-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-230-3">
+    <oll:cite xml:lang="en">AM-230-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-230-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-230-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-230-4">
+    <oll:cite xml:lang="en">AM-230-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-230-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-230-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-230-5">
+    <oll:cite xml:lang="en">AM-230-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-230-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-230-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-231-1">
+    <oll:cite xml:lang="en">AM-231-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-231-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-231-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-232-1">
+    <oll:cite xml:lang="en">AM-232-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-232-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-232-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-234-1">
+    <oll:cite xml:lang="en">AM-234-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-234-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-234-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-235-1">
+    <oll:cite xml:lang="en">AM-235-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-235-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-235-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-236-1">
+    <oll:cite xml:lang="en">AM-236-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-236-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-236-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-239-1">
+    <oll:cite xml:lang="en">AM-239-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-239-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-239-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-1">
+    <oll:cite xml:lang="en">AM-240-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-240-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-240-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-10">
+    <oll:cite xml:lang="en">AM-240-10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-240-10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-240-10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-11">
+    <oll:cite xml:lang="en">AM-240-11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-240-11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-240-11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-12">
+    <oll:cite xml:lang="en">AM-240-12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-240-12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-240-12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-2">
+    <oll:cite xml:lang="en">AM-240-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-240-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-240-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-3">
+    <oll:cite xml:lang="en">AM-240-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-240-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-240-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-5">
+    <oll:cite xml:lang="en">AM-240-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-240-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-240-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-6">
+    <oll:cite xml:lang="en">AM-240-6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-240-6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-240-6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-7">
+    <oll:cite xml:lang="en">AM-240-7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-240-7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-240-7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-8">
+    <oll:cite xml:lang="en">AM-240-8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-240-8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-240-8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-9">
+    <oll:cite xml:lang="en">AM-240-9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-240-9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-240-9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-241-1">
+    <oll:cite xml:lang="en">AM-241-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-241-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-241-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-241-2">
+    <oll:cite xml:lang="en">AM-241-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|200|AM-241-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/200/AM-241-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300">
+    <oll:cite xml:lang="en"> Section 300</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-301-1">
+    <oll:cite xml:lang="en">AM-301-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|AM-301-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300/AM-301-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-301-10">
+    <oll:cite xml:lang="en">AM-301-10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|AM-301-10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300/AM-301-10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-301-2">
+    <oll:cite xml:lang="en">AM-301-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|AM-301-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300/AM-301-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-301-3">
+    <oll:cite xml:lang="en">AM-301-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|AM-301-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300/AM-301-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-301-5">
+    <oll:cite xml:lang="en">AM-301-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|AM-301-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300/AM-301-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-303-1">
+    <oll:cite xml:lang="en">AM-303-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|AM-303-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300/AM-303-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-303-2">
+    <oll:cite xml:lang="en">AM-303-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|AM-303-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300/AM-303-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-303-3">
+    <oll:cite xml:lang="en">AM-303-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|AM-303-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300/AM-303-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-303-4">
+    <oll:cite xml:lang="en">AM-303-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|AM-303-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300/AM-303-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-304-1">
+    <oll:cite xml:lang="en">AM-304-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|AM-304-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300/AM-304-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-305-1">
+    <oll:cite xml:lang="en">AM-305-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|AM-305-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300/AM-305-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-306-1">
+    <oll:cite xml:lang="en">AM-306-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|AM-306-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300/AM-306-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-307-1">
+    <oll:cite xml:lang="en">AM-307-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|AM-307-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300/AM-307-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-308-1">
+    <oll:cite xml:lang="en">AM-308-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|AM-308-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300/AM-308-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-309-1">
+    <oll:cite xml:lang="en">AM-309-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|300|AM-309-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/300/AM-309-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400">
+    <oll:cite xml:lang="en"> Section 400</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-400-3">
+    <oll:cite xml:lang="en">AM-400-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-400-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-400-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-401-1">
+    <oll:cite xml:lang="en">AM-401-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-401-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-401-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-402-1">
+    <oll:cite xml:lang="en">AM-402-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-402-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-402-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-402-2">
+    <oll:cite xml:lang="en">AM-402-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-402-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-402-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-403-1">
+    <oll:cite xml:lang="en">AM-403-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-403-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-403-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-404-1">
+    <oll:cite xml:lang="en">AM-404-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-404-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-404-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-404-2">
+    <oll:cite xml:lang="en">AM-404-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-404-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-404-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-404-4">
+    <oll:cite xml:lang="en">AM-404-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-404-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-404-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-404-5">
+    <oll:cite xml:lang="en">AM-404-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-404-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-404-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-405-1">
+    <oll:cite xml:lang="en">AM-405-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-405-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-405-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-406-1">
+    <oll:cite xml:lang="en">AM-406-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-406-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-406-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-407-1">
+    <oll:cite xml:lang="en">AM-407-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-407-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-407-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-409-1">
+    <oll:cite xml:lang="en">AM-409-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-409-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-409-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-410-1">
+    <oll:cite xml:lang="en">AM-410-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-410-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-410-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-411-1">
+    <oll:cite xml:lang="en">AM-411-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-411-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-411-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-00">
+    <oll:cite xml:lang="en">AM-413-00</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-413-00|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-413-00</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-10">
+    <oll:cite xml:lang="en">AM-413-10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-413-10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-413-10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-20">
+    <oll:cite xml:lang="en">AM-413-20</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-413-20|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-413-20</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-21">
+    <oll:cite xml:lang="en">AM-413-21</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-413-21|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-413-21</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-30">
+    <oll:cite xml:lang="en">AM-413-30</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-413-30|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-413-30</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-40">
+    <oll:cite xml:lang="en">AM-413-40</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-413-40|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-413-40</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-50">
+    <oll:cite xml:lang="en">AM-413-50</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-413-50|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-413-50</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-51">
+    <oll:cite xml:lang="en">AM-413-51</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-413-51|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-413-51</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-60">
+    <oll:cite xml:lang="en">AM-413-60</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-413-60|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-413-60</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-61">
+    <oll:cite xml:lang="en">AM-413-61</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-413-61|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-413-61</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-70">
+    <oll:cite xml:lang="en">AM-413-70</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-413-70|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-413-70</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-419-1">
+    <oll:cite xml:lang="en">AM-419-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-419-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-419-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-420-1">
+    <oll:cite xml:lang="en">AM-420-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-420-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-420-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-420-3">
+    <oll:cite xml:lang="en">AM-420-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-420-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-420-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-420-4">
+    <oll:cite xml:lang="en">AM-420-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-420-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-420-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-420-6">
+    <oll:cite xml:lang="en">AM-420-6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-420-6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-420-6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-420-7">
+    <oll:cite xml:lang="en">AM-420-7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-420-7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-420-7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-420-8">
+    <oll:cite xml:lang="en">AM-420-8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-420-8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-420-8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-421-1">
+    <oll:cite xml:lang="en">AM-421-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-421-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-421-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-422-1">
+    <oll:cite xml:lang="en">AM-422-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-422-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-422-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-423-1">
+    <oll:cite xml:lang="en">AM-423-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|400|AM-423-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/400/AM-423-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500">
+    <oll:cite xml:lang="en"> Section 500</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-500-1">
+    <oll:cite xml:lang="en">AM-500-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-500-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-500-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-1">
+    <oll:cite xml:lang="en">AM-501-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-501-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-501-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-10">
+    <oll:cite xml:lang="en">AM-501-10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-501-10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-501-10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-11">
+    <oll:cite xml:lang="en">AM-501-11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-501-11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-501-11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-12">
+    <oll:cite xml:lang="en">AM-501-12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-501-12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-501-12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-14">
+    <oll:cite xml:lang="en">AM-501-14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-501-14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-501-14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-2">
+    <oll:cite xml:lang="en">AM-501-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-501-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-501-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-3">
+    <oll:cite xml:lang="en">AM-501-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-501-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-501-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-6">
+    <oll:cite xml:lang="en">AM-501-6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-501-6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-501-6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-8">
+    <oll:cite xml:lang="en">AM-501-8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-501-8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-501-8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-9">
+    <oll:cite xml:lang="en">AM-501-9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-501-9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-501-9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-502-1">
+    <oll:cite xml:lang="en">AM-502-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-502-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-502-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-503-1">
+    <oll:cite xml:lang="en">AM-503-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-503-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-503-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-504-1">
+    <oll:cite xml:lang="en">AM-504-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-504-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-504-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-504-2">
+    <oll:cite xml:lang="en">AM-504-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-504-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-504-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-505-1">
+    <oll:cite xml:lang="en">AM-505-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-505-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-505-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-506-1">
+    <oll:cite xml:lang="en">AM-506-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-506-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-506-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-507-1">
+    <oll:cite xml:lang="en">AM-507-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-507-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-507-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-508-1">
+    <oll:cite xml:lang="en">AM-508-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-508-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-508-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-508-2">
+    <oll:cite xml:lang="en">AM-508-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-508-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-508-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-509-1">
+    <oll:cite xml:lang="en">AM-509-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-509-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-509-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-509-2">
+    <oll:cite xml:lang="en">AM-509-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Baltimore Administrative Manual|500|AM-509-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/administrative-manual/500/AM-509-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/_changes">
+    <rdf:_100 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-214-1"/>
+    <rdf:_101 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-216-1"/>
+    <rdf:_102 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-216-2"/>
+    <rdf:_103 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-217-3"/>
+    <rdf:_104 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-219-1"/>
+    <rdf:_105 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-219-2"/>
+    <rdf:_106 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-224-1"/>
+    <rdf:_107 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-225-1"/>
+    <rdf:_108 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-226-1"/>
+    <rdf:_109 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-227-1"/>
+    <rdf:_10 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-105-1"/>
+    <rdf:_110 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-227-2"/>
+    <rdf:_111 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-228-1"/>
+    <rdf:_112 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-228-2"/>
+    <rdf:_113 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-230-1"/>
+    <rdf:_114 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-230-3"/>
+    <rdf:_115 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-230-4"/>
+    <rdf:_116 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-230-5"/>
+    <rdf:_117 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-231-1"/>
+    <rdf:_118 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-232-1"/>
+    <rdf:_119 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-234-1"/>
+    <rdf:_11 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-106-1"/>
+    <rdf:_120 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-235-1"/>
+    <rdf:_121 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-236-1"/>
+    <rdf:_122 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-239-1"/>
+    <rdf:_123 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-1"/>
+    <rdf:_124 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-10"/>
+    <rdf:_125 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-11"/>
+    <rdf:_126 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-12"/>
+    <rdf:_127 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-2"/>
+    <rdf:_128 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-3"/>
+    <rdf:_129 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-5"/>
+    <rdf:_12 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-108-1"/>
+    <rdf:_130 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-6"/>
+    <rdf:_131 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-7"/>
+    <rdf:_132 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-8"/>
+    <rdf:_133 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-240-9"/>
+    <rdf:_134 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-241-1"/>
+    <rdf:_135 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-241-2"/>
+    <rdf:_136 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300"/>
+    <rdf:_137 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-301-1"/>
+    <rdf:_138 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-301-10"/>
+    <rdf:_139 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-301-2"/>
+    <rdf:_13 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-109-1"/>
+    <rdf:_140 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-301-3"/>
+    <rdf:_141 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-301-5"/>
+    <rdf:_142 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-303-1"/>
+    <rdf:_143 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-303-2"/>
+    <rdf:_144 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-303-3"/>
+    <rdf:_145 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-303-4"/>
+    <rdf:_146 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-304-1"/>
+    <rdf:_147 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-305-1"/>
+    <rdf:_148 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-306-1"/>
+    <rdf:_149 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-307-1"/>
+    <rdf:_14 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-110-1"/>
+    <rdf:_150 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-308-1"/>
+    <rdf:_151 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/300/AM-309-1"/>
+    <rdf:_152 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400"/>
+    <rdf:_153 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-400-3"/>
+    <rdf:_154 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-401-1"/>
+    <rdf:_155 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-402-1"/>
+    <rdf:_156 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-402-2"/>
+    <rdf:_157 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-403-1"/>
+    <rdf:_158 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-404-1"/>
+    <rdf:_159 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-404-2"/>
+    <rdf:_15 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-111-1"/>
+    <rdf:_160 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-404-4"/>
+    <rdf:_161 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-404-5"/>
+    <rdf:_162 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-405-1"/>
+    <rdf:_163 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-406-1"/>
+    <rdf:_164 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-407-1"/>
+    <rdf:_165 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-409-1"/>
+    <rdf:_166 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-410-1"/>
+    <rdf:_167 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-411-1"/>
+    <rdf:_168 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-00"/>
+    <rdf:_169 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-10"/>
+    <rdf:_16 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-112-1"/>
+    <rdf:_170 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-20"/>
+    <rdf:_171 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-21"/>
+    <rdf:_172 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-30"/>
+    <rdf:_173 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-40"/>
+    <rdf:_174 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-50"/>
+    <rdf:_175 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-51"/>
+    <rdf:_176 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-60"/>
+    <rdf:_177 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-61"/>
+    <rdf:_178 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-413-70"/>
+    <rdf:_179 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-419-1"/>
+    <rdf:_17 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-112-2"/>
+    <rdf:_180 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-420-1"/>
+    <rdf:_181 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-420-3"/>
+    <rdf:_182 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-420-4"/>
+    <rdf:_183 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-420-6"/>
+    <rdf:_184 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-420-7"/>
+    <rdf:_185 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-420-8"/>
+    <rdf:_186 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-421-1"/>
+    <rdf:_187 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-422-1"/>
+    <rdf:_188 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/400/AM-423-1"/>
+    <rdf:_189 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500"/>
+    <rdf:_18 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-114-1"/>
+    <rdf:_190 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-500-1"/>
+    <rdf:_191 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-1"/>
+    <rdf:_192 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-10"/>
+    <rdf:_193 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-11"/>
+    <rdf:_194 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-12"/>
+    <rdf:_195 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-14"/>
+    <rdf:_196 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-2"/>
+    <rdf:_197 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-3"/>
+    <rdf:_198 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-6"/>
+    <rdf:_199 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-8"/>
+    <rdf:_19 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-115-1"/>
+    <rdf:_1 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual"/>
+    <rdf:_200 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-501-9"/>
+    <rdf:_201 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-502-1"/>
+    <rdf:_202 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-503-1"/>
+    <rdf:_203 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-504-1"/>
+    <rdf:_204 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-504-2"/>
+    <rdf:_205 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-505-1"/>
+    <rdf:_206 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-506-1"/>
+    <rdf:_207 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-507-1"/>
+    <rdf:_208 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-508-1"/>
+    <rdf:_209 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-508-2"/>
+    <rdf:_20 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-117-1"/>
+    <rdf:_210 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-509-1"/>
+    <rdf:_211 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/500/AM-509-2"/>
+    <rdf:_21 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-118-1"/>
+    <rdf:_22 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-119-1"/>
+    <rdf:_23 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200"/>
+    <rdf:_24 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-1"/>
+    <rdf:_25 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-12"/>
+    <rdf:_26 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-13"/>
+    <rdf:_27 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-2"/>
+    <rdf:_28 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-3"/>
+    <rdf:_29 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-4"/>
+    <rdf:_2 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/000"/>
+    <rdf:_30 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-5"/>
+    <rdf:_31 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-200-8"/>
+    <rdf:_32 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-201-1"/>
+    <rdf:_33 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-201-2"/>
+    <rdf:_34 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-201-4"/>
+    <rdf:_35 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-201-5"/>
+    <rdf:_36 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-202-1"/>
+    <rdf:_37 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-202-2"/>
+    <rdf:_38 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-203-1"/>
+    <rdf:_39 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-203-2"/>
+    <rdf:_3 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/000/AM-002-1"/>
+    <rdf:_40 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-203-3"/>
+    <rdf:_41 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-203-4"/>
+    <rdf:_42 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-203-5"/>
+    <rdf:_43 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-1"/>
+    <rdf:_44 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-10"/>
+    <rdf:_45 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-11"/>
+    <rdf:_46 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-13"/>
+    <rdf:_47 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-14"/>
+    <rdf:_48 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-15"/>
+    <rdf:_49 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-16"/>
+    <rdf:_4 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100"/>
+    <rdf:_50 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-18"/>
+    <rdf:_51 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-19"/>
+    <rdf:_52 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-2"/>
+    <rdf:_53 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-21"/>
+    <rdf:_54 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-22"/>
+    <rdf:_55 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-23"/>
+    <rdf:_56 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-24"/>
+    <rdf:_57 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-25"/>
+    <rdf:_58 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-26"/>
+    <rdf:_59 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-27"/>
+    <rdf:_5 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-101-1"/>
+    <rdf:_60 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-28"/>
+    <rdf:_61 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-29"/>
+    <rdf:_62 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-3"/>
+    <rdf:_63 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-30"/>
+    <rdf:_64 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-31"/>
+    <rdf:_65 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-32"/>
+    <rdf:_66 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-4"/>
+    <rdf:_67 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-5"/>
+    <rdf:_68 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-6"/>
+    <rdf:_69 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-7"/>
+    <rdf:_6 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-102-1"/>
+    <rdf:_70 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-8"/>
+    <rdf:_71 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-204-9"/>
+    <rdf:_72 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-1"/>
+    <rdf:_73 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-10"/>
+    <rdf:_74 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-11"/>
+    <rdf:_75 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-12"/>
+    <rdf:_76 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-13"/>
+    <rdf:_77 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-15"/>
+    <rdf:_78 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-16"/>
+    <rdf:_79 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-17"/>
+    <rdf:_7 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-103-1"/>
+    <rdf:_80 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-2"/>
+    <rdf:_81 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-20"/>
+    <rdf:_82 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-3"/>
+    <rdf:_83 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-4"/>
+    <rdf:_84 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-6"/>
+    <rdf:_85 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-7"/>
+    <rdf:_86 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-205-9"/>
+    <rdf:_87 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-206-1"/>
+    <rdf:_88 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-206-2"/>
+    <rdf:_89 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-207-3"/>
+    <rdf:_8 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-103-2"/>
+    <rdf:_90 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-208-1"/>
+    <rdf:_91 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-208-2"/>
+    <rdf:_92 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-208-3"/>
+    <rdf:_93 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-209-1"/>
+    <rdf:_94 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-210-1"/>
+    <rdf:_95 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-210-2"/>
+    <rdf:_96 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-211-1"/>
+    <rdf:_97 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-211-2"/>
+    <rdf:_98 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-212-1"/>
+    <rdf:_99 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/200/AM-213-1"/>
+    <rdf:_9 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-04-03/_date/2024-03-13/us/md/cities/baltimore/administrative-manual/100/AM-104-1"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
