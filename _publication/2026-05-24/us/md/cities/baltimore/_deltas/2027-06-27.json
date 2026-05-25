@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|4",
+      "ptag": "container",
+      "cite": " Article 1, Subtitle 4",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/4",
+      "doc_mpath": "City of Baltimore, Md., Code|1|4|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a74-1",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 4-1",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/4-1",
+      "doc_mpath": "City of Baltimore, Md., Code|1|4|4-1|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a74-10",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 4-10",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/4-10",
+      "doc_mpath": "City of Baltimore, Md., Code|1|4|4-10|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a74-11",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 4-11",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/4-11",
+      "doc_mpath": "City of Baltimore, Md., Code|1|4|4-11|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a74-2",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 4-2",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/4-2",
+      "doc_mpath": "City of Baltimore, Md., Code|1|4|4-2|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a74-2to4-5",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7\u00a7 4-2 to 4-5",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/4-2to4-5",
+      "doc_mpath": "City of Baltimore, Md., Code|1|4|4-2to4-5|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Reserved"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a74-3",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 4-3",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/4-3",
+      "doc_mpath": "City of Baltimore, Md., Code|1|4|4-3|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a74-4",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 4-4",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/4-4",
+      "doc_mpath": "City of Baltimore, Md., Code|1|4|4-4|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a74-5",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 4-5",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/4-5",
+      "doc_mpath": "City of Baltimore, Md., Code|1|4|4-5|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a74-6",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 4-6",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/4-6",
+      "doc_mpath": "City of Baltimore, Md., Code|1|4|4-6|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a74-7",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 4-7",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/4-7",
+      "doc_mpath": "City of Baltimore, Md., Code|1|4|4-7|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a74-7to4-11",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7\u00a7 4-7 to 4-11",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/4-7to4-11",
+      "doc_mpath": "City of Baltimore, Md., Code|1|4|4-7to4-11|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": "Reserved"
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a74-8",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 4-8",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/4-8",
+      "doc_mpath": "City of Baltimore, Md., Code|1|4|4-8|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "1|\u00a74-9",
+      "ptag": "section",
+      "cite": " Article 1, \u00a7 4-9",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/1/4-9",
+      "doc_mpath": "City of Baltimore, Md., Code|1|4|4-9|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-05-24",
+  "codified_date": "2027-06-27",
+  "reasons": {
+    "City of Balt., Md., Ord. 26-103": [
+      "applicable"
+    ]
+  }
+}
