@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2026",
+      "url": "/us/md/legis/acts/2026",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/legis/acts|2026|",
+      "docs_changes": {
+        "Laws of Md., ch. 485 (2026 Session Md. Gen. Assembly)": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Laws of Md., ch. 485 (2026 Session Md. Gen. Assembly)",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/legis/laws/2026/485",
+      "doc_mpath": "Laws of Md., ch. 485 (2026 Session Md. Gen. Assembly)|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/legis/acts|2026|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-06-18",
+  "codified_date": "2026-05-12",
+  "reasons": {
+    "Laws of Md., ch. 485 (2026 Session Md. Gen. Assembly)": [
+      "created"
+    ]
+  }
+}
