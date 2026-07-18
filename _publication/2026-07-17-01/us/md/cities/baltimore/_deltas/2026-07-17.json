@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "doc": "City of Baltimore, Md., Code",
+      "path": "28|\u00a710-1",
+      "ptag": "section",
+      "cite": " Article 28, \u00a7 10-1",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/code/28/10-1",
+      "doc_mpath": "City of Baltimore, Md., Code|28|II|10|10-1|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Balt., Md., Ord. 26-129",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/md/cities/baltimore/ordinances/2026/26-129",
+      "doc_mpath": "City of Balt., Md., Ord. 26-129|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/ordinances|2026|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-07-17-01",
+  "codified_date": "2026-07-17",
+  "reasons": {
+    "City of Balt., Md., Ord. 26-129": [
+      "effective"
+    ]
+  }
+}
