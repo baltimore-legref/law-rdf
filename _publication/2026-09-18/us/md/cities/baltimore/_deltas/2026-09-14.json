@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "us/md/cities/baltimore/editorial-actions",
+      "url": "",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/editorial-actions|",
+      "docs_changes": {
+        "Editor Action 2026-09-14": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Code of Baltimore Regulations Annotated",
+      "path": "14|03|01|.02",
+      "ptag": "section",
+      "cite": "14.03.01.02",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/cobra/14.03.01.02",
+      "doc_mpath": "Code of Baltimore Regulations Annotated|14|03|01|.02|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/cobra-toc|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Baltimore Regulations Annotated",
+      "path": "14|03|01|.07",
+      "ptag": "section",
+      "cite": "14.03.01.07",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/cities/baltimore/cobra/14.03.01.07",
+      "doc_mpath": "Code of Baltimore Regulations Annotated|14|03|01|.07|",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/cobra-toc|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-09-18",
+  "codified_date": "2026-09-14",
+  "reasons": {
+    "Editor Action 2026-09-14": [
+      "created",
+      "effective"
+    ]
+  }
+}
