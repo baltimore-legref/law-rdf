@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "us/md/cities/baltimore/editorial-actions",
+      "url": "",
+      "lib_mpath": "baltimore-legref/law-rdf|us/md/cities/baltimore/editorial-actions|",
+      "docs_changes": {
+        "Editor Action 2026-11-03": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "City of Baltimore Administrative Manual",
+      "path": "200|\u00a7AM-204-23",
+      "ptag": "section",
+      "cite": "AM-204-23",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/administrative-manual/200/AM-204-23",
+      "doc_mpath": "City of Baltimore Administrative Manual|200|AM-204-23|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore Administrative Manual",
+      "path": "200|\u00a7AM-204-24",
+      "ptag": "section",
+      "cite": "AM-204-24",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/administrative-manual/200/AM-204-24",
+      "doc_mpath": "City of Baltimore Administrative Manual|200|AM-204-24|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of Baltimore Administrative Manual",
+      "path": "200|\u00a7AM-204-26",
+      "ptag": "section",
+      "cite": "AM-204-26",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/cities/baltimore/administrative-manual/200/AM-204-26",
+      "doc_mpath": "City of Baltimore Administrative Manual|200|AM-204-26|",
+      "lib_mpath": "baltimore-legref/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-10-27",
+  "codified_date": "2026-11-03",
+  "reasons": {
+    "Editor Action 2026-11-03": [
+      "created"
+    ]
+  }
+}
