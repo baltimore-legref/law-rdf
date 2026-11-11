@@ -1,0 +1,61 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-11-06/_date/2026-11-22/us/md/cities/baltimore/public-local-laws">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-11-06</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://codes.baltimorecity.gov/_publication/2026-11-06/us/md/cities/baltimore/public-local-laws"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Subtitle 1 Civic Center(§§ 1-1 – 1-4)
+Subtitle 2 Courts(§§ 2-1 – 2-4)
+Subtitle 3 Electrical Apparatus and Wiring(§§ 3-1 – 3-21)
+Subtitle 4 Examining Engineers
+[Repealed by Ch. 613, Acts of 2005]
+Subtitle 5 Harbor(§§ 5-1 – 5-3)
+Subtitle 6 Jones’ Falls(§§ 6-1 – 6-2)
+Subtitle 7 Jurors(§§ 7-1 – 7-10)
+Subtitle 8 Justices of the Peace and Constables
+[Repealed by Ch. 783, Acts of 1978]
+Subtitle 9 Landlord and Tenant(§§ 9-1 – 9-33)
+Subtitle 10 Markets(§§ 10-1 – 10-16)
+Subtitle 11 Moving Picture Machine Operators
+[Repealed by Ch. 345, Acts of 1986]
+Subtitle 12 Off-Street Parking(§§ 12-1 – 12-4)
+Subtitle 13 Orphans’ Court(§§ 13-1 – 13-2)
+Subtitle 14 Parks and Squares(§§ 14-1 – 14-2)
+Subtitle 15 People’s Court
+[Repealed by Ch. 783, Acts of 1978]
+Subtitle 16 Police Department(§§ 16-1 to 16-16 – 16-17 to 16-55)
+Subtitle 17 Pratt Free Library(§§ 17-1 – 17-3)
+Subtitle 18 Railroads(§§ 18-1 – 18-14)
+Subtitle 19 Schools(§§ 19-1 – 19-5)
+Subtitle 20 Sewers(§§ 20-1 – 20-13)
+Subtitle 21 Streets, Bridges, and Highways(§§ 21-1 – 21-32)
+Subtitle 22 Circuit Court for Baltimore City(§§ 22-1 – 22-90)
+Subtitle 23 Taxes(§§ 23-1 – 23-1)
+Subtitle 24 Fortune Tellers(§§ 24-1 – 24-10)
+Subtitle 25 Water Supply and Distribution(§§ 25-1 – 25-49)
+Subtitle 26 Business Displacement Benefits
+[Repealed by Ch. 578, Acts of 1982]
+Subtitle 27 Enterprise Development Program(§§ 27-1 – 27-8)
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Code of Public Local Laws of Baltimore City</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2026-11-06/2026-11-22]: City of Balt., Md., Code of Public Local Laws</rdfs:label>
+    <oll:codifiedDate>2026-11-22</oll:codifiedDate>
+    <oll:docId>City of Balt., Md., Code of Public Local Laws</oll:docId>
+    <oll:hasChanges rdf:resource="https://codes.baltimorecity.gov/_publication/2026-11-06/_date/2026-11-22/us/md/cities/baltimore/public-local-laws/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://codes.baltimorecity.gov/_publication/2026-11-06"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-11-06/_date/2026-11-22/us/md/cities/baltimore/public-local-laws/5/5-2">
+    <oll:cite xml:lang="en">Subtitle 5, § 5-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of Balt., Md., Code of Public Local Laws|5|5-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/cities/baltimore/public-local-laws/5/5-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://codes.baltimorecity.gov/_publication/2026-11-06/_date/2026-11-22/us/md/cities/baltimore/public-local-laws/_changes">
+    <rdf:_1 rdf:resource="https://codes.baltimorecity.gov/_publication/2026-11-06/_date/2026-11-22/us/md/cities/baltimore/public-local-laws/5/5-2"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
